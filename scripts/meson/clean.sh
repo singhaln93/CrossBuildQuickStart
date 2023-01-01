@@ -5,5 +5,5 @@
 ### START ###
 rm -rf main/build.meson
 clear
-printf "Cleaning build.meson directories..."
+echo -e "Cleaning build.meson directories..."
 ### END ###

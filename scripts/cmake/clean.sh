@@ -9,5 +9,5 @@ rm -rf main/build.cmake
 #make clean -C /build.ninja/
 #rm -rf build.ninja
 clear
-printf "Cleaning cmake build directories..."
+echo -e "Cleaning cmake build directories..."
 ### END ###

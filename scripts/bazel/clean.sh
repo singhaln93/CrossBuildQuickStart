@@ -5,5 +5,5 @@
 ### START ###
 rm -rf bazel-*
 clear
-printf "Cleaning bazel build directories..."
+echo -e "Cleaning bazel build directories..."
 ### END ###

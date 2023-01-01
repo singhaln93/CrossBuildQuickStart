@@ -3,6 +3,6 @@
 
 #!/bin/bash
 ### START ###
-printf "Output...\n"
+echo -e "\nOutput..."
 bazel-bin/main/hello-world
 ### END ###
